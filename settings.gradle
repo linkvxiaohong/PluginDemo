@@ -1,0 +1,5 @@
+rootProject.name='PluginDemo'
+include ':app'
+include ':commonlibrary'
+include ':iosdevelop'
+include ':androiddevelop'
